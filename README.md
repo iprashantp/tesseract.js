@@ -16,7 +16,6 @@
   Version 2 is now available and under development in the master branch, read a story about v2: <a href="https://jeromewu.github.io/why-i-refactor-tesseract.js-v2/">Why I refactor tesseract.js v2?</a><br>
   Check the <a href="https://github.com/naptha/tesseract.js/tree/support/1.x">support/1.x</a> branch for version 1
 </h3>
-
 <br>
 
 Tesseract.js is a javascript library that gets words in [almost any language](./docs/tesseract_lang_list.md) out of images. ([Demo](http://tesseract.projectnaptha.com/))
